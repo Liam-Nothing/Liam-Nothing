@@ -5,19 +5,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Nothing&langs_count=3&hide_title=true&hide_border=true&theme=!radical" />
 </a>
-
-### Web sites
-
-- <a href="https://NothingElse.fr/">NothingElse.fr</a>
-
-### Private projects
-
-- <a href="https://ncard.fr/">Ncard.fr</a> online business card.
-
-### Useless Web
-
-- https://cookiemonster.fr/
-- https://kfcgaming.fr/
-- https://éè.fr/
-- https://bacteries.fr/
-- https://gogoltraduction.fr/
